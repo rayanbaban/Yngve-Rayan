@@ -1,0 +1,15 @@
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\bin\Debug\net7.0\HjemmeLekse.exe
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\bin\Debug\net7.0\HjemmeLekse.deps.json
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\bin\Debug\net7.0\HjemmeLekse.runtimeconfig.json
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\bin\Debug\net7.0\HjemmeLekse.dll
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\bin\Debug\net7.0\HjemmeLekse.pdb
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.csproj.AssemblyReference.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.AssemblyInfoInputs.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.AssemblyInfo.cs
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.csproj.CoreCompileInputs.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.dll
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\refint\HjemmeLekse.dll
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.pdb
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\HjemmeLekse.genruntimeconfig.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\HjemmeLekse\obj\Debug\net7.0\ref\HjemmeLekse.dll
