@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rayan\\2.Termin\\2.TerminDiv\\HjemmeLekse\\HjemmeLekse.csproj",
+      "projectUniqueName": "C:\\GA\\2.TerminDiv\\HjemmeLekse\\HjemmeLekse.csproj",
       "projectName": "HjemmeLekse",
-      "projectPath": "C:\\Users\\rayan\\2.Termin\\2.TerminDiv\\HjemmeLekse\\HjemmeLekse.csproj",
+      "projectPath": "C:\\GA\\2.TerminDiv\\HjemmeLekse\\HjemmeLekse.csproj",
       "packagesPath": "C:\\Users\\rayan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rayan\\2.Termin\\2.TerminDiv\\HjemmeLekse\\obj\\",
+      "outputPath": "C:\\GA\\2.TerminDiv\\HjemmeLekse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rayan\\AppData\\Roaming\\NuGet\\NuGet.Config",

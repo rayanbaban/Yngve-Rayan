@@ -1,0 +1,11 @@
+﻿ForNavn, EtterNavn, Alder
+Yngve,Magnussen,33
+Salar,Amir,65
+Rayan,Baban,25
+Jacob,Andreassen,22
+Mathias,Mathiesen,26
+Bjørnstjerne,Bjørnson,67
+Asgeir,Sjefen,42
+Andreas,Wangsmo,29
+Trym,Dyring,29
+Magne,Ulriksen,65

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HjemmeLekse", "HjemmeLekse.csproj", "{5BEF7F55-04E1-48AB-BB38-5DE31030549F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Oppgaver Filer", "Oppgaver Filer", "{02552D13-BECB-4457-9589-9EC75678199F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Øving Klasser", "Øving Klasser", "{6AD022CB-9F84-44EA-81BC-F0CBD4475E36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Undermappe", "Undermappe", "{C5D356F4-B4A2-456A-90D8-E2CEE735C7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\Test\ConsoleApp1\ConsoleApp1.csproj", "{6E6F8FBD-2C98-4A91-A9EF-D040F394D2B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEF7F55-04E1-48AB-BB38-5DE31030549F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEF7F55-04E1-48AB-BB38-5DE31030549F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEF7F55-04E1-48AB-BB38-5DE31030549F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEF7F55-04E1-48AB-BB38-5DE31030549F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6F8FBD-2C98-4A91-A9EF-D040F394D2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6F8FBD-2C98-4A91-A9EF-D040F394D2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6F8FBD-2C98-4A91-A9EF-D040F394D2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6F8FBD-2C98-4A91-A9EF-D040F394D2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5BEF7F55-04E1-48AB-BB38-5DE31030549F} = {02552D13-BECB-4457-9589-9EC75678199F}
+		{C5D356F4-B4A2-456A-90D8-E2CEE735C7B8} = {6AD022CB-9F84-44EA-81BC-F0CBD4475E36}
+		{6E6F8FBD-2C98-4A91-A9EF-D040F394D2B8} = {6AD022CB-9F84-44EA-81BC-F0CBD4475E36}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC35A795-D582-4F4F-A77F-77C9324ECB5F}
+	EndGlobalSection
+EndGlobal
